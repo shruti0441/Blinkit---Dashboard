@@ -78,9 +78,6 @@ The main objectives of this dashboard are:
 ## 🖼️ Dashboard Screenshot
 ![Blinkit Dashboard](./Blinkit%20Dashboard%20sc.png)
 
-> Make sure the image file is placed in the root folder of the repository  
-> and the name matches exactly.
-
 ---
 
 ## 📁 Repository Structure
